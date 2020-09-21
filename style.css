@@ -1,0 +1,13 @@
+body {
+  background-image: url(sunset.jpg);
+}
+
+.tugas9 {
+  width: 600px;
+  height: 550px;
+  text-align: right;
+  background-color: white;
+  position: relative;
+  float: right;
+  padding: 0 10px;
+}
